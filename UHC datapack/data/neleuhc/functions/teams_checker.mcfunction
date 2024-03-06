@@ -1,0 +1,1 @@
+execute if score num PlayersNum matches 1..2147483647 run function neleuhc:fillteams
