@@ -1,7 +1,7 @@
 # Uhc-datapack
 Eng
 
-Very bad and stupidly writen datapack that will allow you to host UHC events on your server. If you (for some weird reason) wan to use this dm me on discord @__nele
+Very bad and stupidly writen datapack that will allow you to host UHC events on your server. If you (for some weird reason) want to use this dm me on discord @__nele
 
 Ru
 
